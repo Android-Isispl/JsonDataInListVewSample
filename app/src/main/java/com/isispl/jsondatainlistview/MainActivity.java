@@ -6,14 +6,12 @@ import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 import android.os.AsyncTask;
 import android.os.Bundle;
-import android.text.method.ScrollingMovementMethod;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
 import com.isispl.jsondatainlistview.model.Flower;
-import com.vstechlab.easyfonts.EasyFonts;
 import java.util.ArrayList;
 import java.util.List;
 
