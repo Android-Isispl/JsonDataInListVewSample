@@ -16,8 +16,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class MainActivity extends ListActivity {
-
-    TextView output;
+    
     ProgressBar pb;
     List<MyBgTask> tasks;
     List<Flower> flowerList;
